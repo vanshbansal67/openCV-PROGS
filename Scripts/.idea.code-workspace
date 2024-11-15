@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../.idea"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../Include"
+		},
+		{
+			"path": "../Lib"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".idea"
+	}
+}
