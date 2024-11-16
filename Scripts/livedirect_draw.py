@@ -13,7 +13,7 @@ def draw(event,x,y,flags,params):
 cv2.namedWindow(winname="window")
 cv2.setMouseCallback("window",draw)
     
-img= numpy.zeros((512,512,3)) 
+#img= numpy.zeros((512,512,3)) 
 img2= cv2.imread("image/LOGO.png")
 #cv2.waitKey(0)
 while True:
