@@ -9,7 +9,7 @@ def draw(event,x,y,flags,params):
         flag= True
         ix=x
         iy=y
-    elif event==1:
+    elif event==0:
         flag= True
         
           #  cv2.rectangle(img,pt1=(ix,iy),pt2=(x,y),color=(0,255,0),thickness=-1)

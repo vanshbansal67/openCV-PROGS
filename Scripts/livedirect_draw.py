@@ -4,7 +4,7 @@ def draw(event,x,y,flags,params):
     if event==1:
         cv2.circle(img2,center=(x,y),radius=50,color=(55,85,99),thickness=-1)
         #print("mouse moved")
-    elif event==1:
+    elif event==0:
         #cv2.rectangle(img,pt1=())
         print("dowm pressed")
     elif event==4:
